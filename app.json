@@ -1,8 +1,8 @@
 {
   "expo": {
-    "entryPoint": "./src/App.js",
-    "name": "ProjetoTcc_Frontend",
-    "slug": "ProjetoTcc_Frontend",
+    "entryPoint": "./src/index.js",
+    "name": "tcc-elthon-front",
+    "slug": "tcc-elthon-front",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -15,9 +15,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
